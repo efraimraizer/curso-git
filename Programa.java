@@ -9,7 +9,7 @@ public class TesteGit {
     System.out.println("TESTE");
 
     for(lista:list){
-      
+      System.out.println(list);
     }
 
   }
