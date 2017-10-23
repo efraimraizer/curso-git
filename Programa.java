@@ -12,5 +12,9 @@ public class TesteGit {
       System.out.println(list);
     }
 
+    while(lista.lenght > 0){
+      System.out.println("deu merda");
+    }
+
   }
 }
