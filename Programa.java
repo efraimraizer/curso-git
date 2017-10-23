@@ -12,6 +12,9 @@ public class TesteGit {
       System.out.println("TESTESTESTE");
     }
 
+    //git add .
+    
+
 
   }
 }
